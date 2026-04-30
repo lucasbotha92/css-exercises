@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+
+.style {
+    background-color: lightpink;
+    font-family: Verdana,'Dejavu Sans',sans-serif;
+}
+
+.font {
+    font-size: 24px;
+}
+
+
+#newstyle{
+    color: blue;
+    font-size: 36px;
+}
+
+#goodstyle{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
